@@ -1,0 +1,37 @@
+.head{
+    background-color: blue;
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+}
+.create{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.free{
+    text-align: center;
+    font-size: 30px;
+}
+.values{
+    text-align: center;
+    font-size: 30px;
+}
+body{
+    text-align: center;
+    background-color: rgb(144, 209, 209);
+}
+span{
+    color: blue;
+}
+.Create-Account-btn{
+    background-color: green;
+    color: whitesmoke;
+    font-size: 35px;
+}
+.values{
+    font-size: 30px;
+}
+.sex{
+    font-size: 30px;
+}
